@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://MambaSystems.github.com/sitemap.xml 
+Sitemap: http://mambasystems.net/sitemap.xml 
